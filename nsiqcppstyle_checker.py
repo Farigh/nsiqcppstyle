@@ -245,7 +245,7 @@ reserved = {
     "explicit": "IGNORE",
     "friends": "IGNORE",
     "register": "IGNORE",
-    "unsinged": "IGNORE",
+    "unsigned": "IGNORE",
     "signed": "IGNORE",
     "__based": "IGNORE",
     "__cdecl": "IGNORE",
